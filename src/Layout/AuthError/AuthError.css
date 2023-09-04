@@ -1,0 +1,18 @@
+.errdiv__parent{
+    margin: 250px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.errdiv__child{
+    width: 40%;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px  black;
+    margin: 20px auto;
+    padding: 50px 0;
+    height: auto;
+    text-transform: capitalize;
+    background-color: #ebe3e3;
+
+}

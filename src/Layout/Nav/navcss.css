@@ -1,0 +1,52 @@
+.logofigure{
+    width: 40%;
+    display: block;
+margin: auto;
+}
+
+.logoimg{
+width: 100%;
+
+}
+
+.navbar{
+    background-color:#fff;
+    color: rgb(14, 15, 14)!important;
+}
+.nav-menu{
+    position: fixed!important;
+    width: 100%!important;
+    top: 0!important;
+    z-index: 39999!important;
+}
+.nav-menu-list{
+    width: 50%;
+}
+.nav-menu-list a:hover{
+    padding-bottom: 5px;
+    border-bottom: 1px solid #31512a;
+}
+.sign-svg{
+    height: 30px;
+    width: 71px;
+}
+
+.nav__bar__collaps{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 2% !important;
+}
+.nav-list1{
+    width: 60% !important;
+}
+.cartIcon{
+    position: relative;
+    z-index: 2;
+}
+.cartBadge{
+    position: absolute;
+    top:21px;
+    right: 18px;
+    z-index: 1;
+}

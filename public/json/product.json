@@ -1,0 +1,556 @@
+{
+    "product":[
+        {
+            "id":"p01",
+            "category":"seed",
+            "name":"Arborio Rice",
+            "price":1000,
+            "first_img":"../../../assate/product/seed/Arborio_Rice_1.jfif",
+            "second_img":"../../../assate/product/seed/Arborio_Rice_2.jfif",
+            "third_img":"../../../assate/product/seed/Arborio_Rice_3.jfif"
+            
+        },
+
+        {
+            "id":"p02",
+            "category":"seed",
+            "name":"Basmati Rice",
+            "price":1100,
+            "first_img":"../../../assate/product/seed/Basmati_Rice_1.jfif",
+            "second_img":"../../../assate/product/seed/Basmati_Rice_2.jfif",
+            "third_img":"../../../assate/product/seed/Basmati_Rice_3.jfif"
+            
+        } , 
+        
+        {
+            "id":"p03",
+            "category":"seed",
+            "name":"Black Rice",
+            "price":1200,
+            "first_img":"../../../assate/product/seed/Black_Rice_1.jfif",
+            "second_img":"../../../assate/product/seed/Black_Rice_2.jfif",
+            "third_img":"../../../assate/product/seed/Black_Rice_3.jfif"
+            
+        },  
+        
+        {
+            "id":"p04",
+            "category":"seed",
+            "name":"Bomba Rice",
+            "price":1300,
+            "first_img":"../../../assate/product/seed/Bomba_Rice_1.jfif",
+            "second_img":"../../../assate/product/seed/Bomba_Rice_2.jfif",
+            "third_img":"../../../assate/product/seed/Bomba_Rice_3.jfif"
+            
+        },
+        {
+            "id":"p05",
+            "category":"seed",
+            "name":"Triticum vulgare(wheat)",
+            "price":1400,
+            "first_img":"../../../assate/product/seed/Triticum_vulgare_1.jfif",
+            "second_img":"../../../assate/product/seed/Triticum_vulgare_2.jfif",
+            "third_img":"../../../assate/product/seed/Triticum_vulgare_3.jfif"
+        },
+
+        {
+            "id":"p06",
+            "category":"seed",
+            "name":"T. compactum(wheat)",
+            "price":1500,
+            "first_img":"../../../assate/product/seed/T_compactum_1.jfif",
+            "second_img":"../../../assate/product/seed/T_compactum_2.jfif",
+            "third_img":"../../../assate/product/seed/T_compactum_3.jfif"
+        },
+
+        {
+            "id":"p07",
+            "category":"seed",
+            "name":"T. durum(wheat)",
+            "price":1600,
+            "first_img":"../../../assate/product/seed/T_durum_1.jfif",
+            "second_img":"../../../assate/product/seed/T_durum_2.jfif",
+            "third_img":"../../../assate/product/seed/T_durum_3.jfif"
+        },
+
+        {
+            "id":"p08",
+            "category":"seed",
+            "name":"Broccoli",
+            "price":1700,
+            "first_img":"../../../assate/product/seed/Broccoli_1.jfif",
+            "second_img":"../../../assate/product/seed/Broccoli_2.jfif",
+            "third_img":"../../../assate/product/seed/Broccoli_3.jfif"
+        },
+
+        {
+            "id":"p09",
+            "category":"seed",
+            "name":"Spinach",
+            "price":1800,
+            "first_img":"../../../assate/product/seed/Spinach_1.jfif",
+            "second_img":"../../../assate/product/seed/Spinach_2.jfif",
+            "third_img":"../../../assate/product/seed/Spinach_3.jfif"
+        },
+
+        {
+            "id":"p10",
+            "category":"seed",
+            "name":"Coriander",
+            "price":1900,
+            "first_img":"../../../assate/product/seed/Coriander_1.jfif",
+            "second_img":"../../../assate/product/seed/Coriander_2.jfif",
+            "third_img":"../../../assate/product/seed/Coriander_3.jfif"
+        },
+
+        {
+            "id":"p11",
+            "category":"seed",
+            "name":"Cherry Tomato",
+            "price":2000,
+            "first_img":"../../../assate/product/seed/Cherry_Tomato_1.jfif",
+            "second_img":"../../../assate/product/seed/Cherry_Tomato_2.jfif",
+            "third_img":"../../../assate/product/seed/Cherry_Tomato_3.jfif"
+        },
+
+        {
+            "id":"p12",
+            "category":"seed",
+            "name":"Capsicum",
+            "price":2200,
+            "first_img":"../../../assate/product/seed/Capsicum_1.jfif",
+            "second_img":"../../../assate/product/seed/Capsicum_2.jfif",
+            "third_img":"../../../assate/product/seed/Capsicum_3.jfif"
+        },
+
+        {
+            "id":"p13",
+            "category":"seed",
+            "name":"Tomato",
+            "price":2800,
+            "first_img":"../../../assate/product/seed/Tomato_1.jfif",
+            "second_img":"../../../assate/product/seed/Tomato_2.jfif",
+            "third_img":"../../../assate/product/seed/Tomato_3.jfif"
+        },
+        {
+            "id":"p14",
+            "category":"seed",
+            "name":"Mango",
+            "price":4000,
+            "first_img":"../../../assate/product/seed/Mango_1.jfif",
+            "second_img":"../../../assate/product/seed/Mango_2.jfif",
+            "third_img":"../../../assate/product/seed/Mango_3.jfif"
+        },
+        {
+            "id":"p15",
+            "category":"seed",
+            "name":"Avocado",
+            "price":1600,
+            "first_img":"../../../assate/product/seed/Avocado_1.jfif",
+            "second_img":"../../../assate/product/seed/Avocado_2.jfif",
+            "third_img":"../../../assate/product/seed/Avocado_3.jfif"
+        },
+
+        {
+            "id":"p16",
+            "category":"seed",
+            "name":"Pistachios",
+            "price":700,
+            "first_img":"../../../assate/product/seed/Pistachios_1.jfif",
+            "second_img":"../../../assate/product/seed/Pistachios_2.jfif",
+            "third_img":"../../../assate/product/seed/Pistachios_3.jfif"
+        },
+
+        {
+            "id":"p17",
+            "category":"seed",
+            "name":"Cashew nut",
+            "price":5000,
+            "first_img":"../../../assate/product/seed/Cashew_nut_1.jfif",
+            "second_img":"../../../assate/product/seed/Cashew_nut_2.jfif",
+            "third_img":"../../../assate/product/seed/Cashew_nut_3.jpg"
+        },
+
+        {
+            "id":"p18",
+            "category":"seed",
+            "name":"Almond",
+            "price":800,
+            "first_img":"../../../assate/product/seed/Almond_1.jfif",
+            "second_img":"../../../assate/product/seed/Almond_2.jfif",
+            "third_img":"../../../assate/product/seed/Almond_3.jfif"
+        },
+
+        {
+            "id":"p19",
+            "category":"seed",
+            "name":"Gooseberry",
+            "price":8900,
+            "first_img":"../../../assate/product/seed/Gooseberry_1.jfif",
+            "second_img":"../../../assate/product/seed/Gooseberry_2.jfif",
+            "third_img":"../../../assate/product/seed/Gooseberry_3.JPG"
+        },
+
+        {
+            "id":"p20",
+            "category":"seed",
+            "name":"Olive",
+            "price":600,
+            "first_img":"../../../assate/product/seed/Olive_1.jfif",
+            "second_img":"../../../assate/product/seed/Olive_2.jpg",
+            "third_img":"../../../assate/product/seed/Olive_3.jpg"
+        },
+
+        {
+            "id":"p21",
+            "category":"seed",
+            "name":"Peach",
+            "price":1800,
+            "first_img":"../../../assate/product/seed/Peach_1.jfif",
+            "second_img":"../../../assate/product/seed/Peach_2.jpg",
+            "third_img":"../../../assate/product/seed/Peach_3.jpg"
+        },
+
+        {
+            "id":"p22",
+            "category":"seed",
+            "name":"Apricot",
+            "price":1900,
+            "first_img":"../../../assate/product/seed/Apricot_1.jpg",
+            "second_img":"../../../assate/product/seed/Apricot_2.jpg",
+            "third_img":"../../../assate/product/seed/Apricot_3.jpg"
+        },
+
+        {
+            "id":"p23",
+            "category":"seed",
+            "name":"Plum",
+            "price":1500,
+            "first_img":"../../../assate/product/seed/Plum_1.jpg",
+            "second_img":"../../../assate/product/seed/Plum_2.jpg",
+            "third_img":"../../../assate/product/seed/Plum_3.jpg"
+        },
+
+        {
+            "id":"p24",
+            "category":"seed",
+            "name":"Litchi",
+            "price":9000,
+            "first_img":"../../../assate/product/seed/Litchi_1.jpeg",
+            "second_img":"../../../assate/product/seed/Litchi_2.jpg",
+            "third_img":"../../../assate/product/seed/Litchi_3.JPG"
+        },
+        {
+            "id":"p25",
+            "category":"insecticide",
+            "name":"Actara",
+            "price":6000,
+            "first_img":"../../../assate/product/pesticide/insecticide/Actara_1.jpg",
+            "second_img":"../../../assate/product/pesticide/insecticide/Actara_2.webp",
+            "third_img":"../../../assate/product/pesticide/insecticide/Actara_3.jpg"
+        },
+
+        {
+            "id":"p26",
+            "category":"insecticide",
+            "name":"Admire",
+            "price":6800,
+            "first_img":"../../../assate/product/pesticide/insecticide/Admire_1.webp",
+            "second_img":"../../../assate/product/pesticide/insecticide/Admire_2.webp",
+            "third_img":"../../../assate/product/pesticide/insecticide/Admire_3.webp"
+        },
+
+        {
+            "id":"p27",
+            "category":"insecticide",
+            "name":"Avaunt",
+            "price":900,
+            "first_img":"../../../assate/product/pesticide/insecticide/Avaunt_1.webp",
+            "second_img":"../../../assate/product/pesticide/insecticide/Avaunt_2.webp",
+            "third_img":"../../../assate/product/pesticide/insecticide/Avaunt_3.jfif"
+        },
+
+        {
+            "id":"p28",
+            "category":"insecticide",
+            "name":"Confidor",
+            "price":6700,
+            "first_img":"../../../assate/product/pesticide/insecticide/Confidor_1.webp",
+            "second_img":"../../../assate/product/pesticide/insecticide/Confidor_2.jfif",
+            "third_img":"../../../assate/product/pesticide/insecticide/Confidor_3.jpg"
+        },
+
+        {
+            "id":"p29",
+            "category":"insecticide",
+            "name":"Corogen",
+            "price":3000,
+            "first_img":"../../../assate/product/pesticide/insecticide/Corogen_1.jpg",
+            "second_img":"../../../assate/product/pesticide/insecticide/Corogen_2.jfif",
+            "third_img":"../../../assate/product/pesticide/insecticide/Corogen_3.jpg"
+        },
+
+        {
+            "id":"p30",
+            "category":"insecticide",
+            "name":"Curacron",
+            "price":5000,
+            "first_img":"../../../assate/product/pesticide/insecticide/Curacron_1.jpg",
+            "second_img":"../../../assate/product/pesticide/insecticide/Curacron_2.jpg",
+            "third_img":"../../../assate/product/pesticide/insecticide/Curacron_3.jpg"
+        },
+
+        {
+            "id":"p31",
+            "category":"insecticide",
+            "name":"Cymbush",
+            "price":5000,
+            "first_img":"../../../assate/product/pesticide/insecticide/Cymbush_1.jpg",
+            "second_img":"../../../assate/product/pesticide/insecticide/Cymbush_2.jfif",
+            "third_img":"../../../assate/product/pesticide/insecticide/Cymbush_3.jpg"
+        },
+
+        {
+            "id":"p32",
+            "category":"insecticide",
+            "name":"Decis",
+            "price":6000,
+            "first_img":"../../../assate/product/pesticide/insecticide/Decis_1.webp",
+            "second_img":"../../../assate/product/pesticide/insecticide/Decis_2.webp",
+            "third_img":"../../../assate/product/pesticide/insecticide/Decis_3.jfif"
+        },
+
+        {
+            "id":"p33",
+            "category":"insecticide",
+            "name":"Dursban",
+            "price":5000,
+            "first_img":"../../../assate/product/pesticide/insecticide/Dursban_1.jpg",
+            "second_img":"../../../assate/product/pesticide/insecticide/Dursban_2.jfif",
+            "third_img":"../../../assate/product/pesticide/insecticide/Dursban_3.jpg"
+        },
+
+        {
+            "id":"p34",
+            "category":"insecticide",
+            "name":"Ekalux",
+            "price":8000,
+            "first_img":"../../../assate/product/pesticide/insecticide/Ekalux_1.webp",
+            "second_img":"../../../assate/product/pesticide/insecticide/Ekalux_2.jfif",
+            "third_img":"../../../assate/product/pesticide/insecticide/Ekalux_3.jfif"
+        },
+
+        {
+            "id":"p35",
+            "category":"insecticide",
+            "name":"Fame",
+            "price":9500,
+            "first_img":"../../../assate/product/pesticide/insecticide/Fame_1.jpg",
+            "second_img":"../../../assate/product/pesticide/insecticide/Fame_2.png",
+            "third_img":"../../../assate/product/pesticide/insecticide/Fame_3.webp"
+        },
+
+        {
+            "id":"p36",
+            "category":"insecticide",
+            "name":"Furadon/Tata Furan",
+            "price":6500,
+            "first_img":"../../../assate/product/pesticide/insecticide/Furadon_1.webp",
+            "second_img":"../../../assate/product/pesticide/insecticide/Furadon_2.png",
+            "third_img":"../../../assate/product/pesticide/insecticide/Furadon_3.webp"
+        },
+
+        {
+            "id":"p37",
+            "category":"insecticide",
+            "name":"Hostathian",
+            "price":7000,
+            "first_img":"../../../assate/product/pesticide/insecticide/Hostathian_1.webp",
+            "second_img":"../../../assate/product/pesticide/insecticide/Hostathian_2.jpg",
+            "third_img":"../../../assate/product/pesticide/insecticide/Hostathian_3.webp"
+        },
+
+        {
+            "id":"p38",
+            "category":"insecticide",
+            "name":"Jump",
+            "price":8700,
+            "first_img":"../../../assate/product/pesticide/insecticide/Jump_1.jfif",
+            "second_img":"../../../assate/product/pesticide/insecticide/Jump_2.jpg",
+            "third_img":"../../../assate/product/pesticide/insecticide/Jump_3.webp"
+        },
+
+        {
+            "id":"p39",
+            "category":"insecticide",
+            "name":"Karate",
+            "price":2600,
+            "first_img":"../../../assate/product/pesticide/insecticide/Karate_1.webp",
+            "second_img":"../../../assate/product/pesticide/insecticide/Karate_2.jfif",
+            "third_img":"../../../assate/product/pesticide/insecticide/Karate_3.jfif"
+        },
+
+        {
+            "id":"p40",
+            "category":"insecticide",
+            "name":"Colonel-S",
+            "price":5700,
+            "first_img":"../../../assate/product/pesticide/insecticide/Colonel-S_1.png",
+            "second_img":"../../../assate/product/pesticide/insecticide/Colonel-S_2.jfif",
+            "third_img":"../../../assate/product/pesticide/insecticide/Colonel-S_3.webp"
+        },
+
+        {
+            "id":"p41",
+            "category":"fungicides",
+            "name":"Aliette",
+            "price":8000,
+            "first_img":"../../../assate/product/pesticide/fungicide/Aliette_1.jpg",
+            "second_img":"../../../assate/product/pesticide/fungicide/Aliette_2.jpg",
+            "third_img":"../../../assate/product/pesticide/fungicide/Aliette_3.jfif"
+        },
+
+        {
+            "id":"p42",
+            "category":"fungicides",
+            "name":"Amistar",
+            "price":1300,
+            "first_img":"../../../assate/product/pesticide/fungicide/Amistar_1.jpg",
+            "second_img":"../../../assate/product/pesticide/fungicide/Amistar_2.jpg",
+            "third_img":"../../../assate/product/pesticide/fungicide/Amistar_3.jpg"
+
+        },
+
+        {
+            "id":"p43",
+            "category":"fungicides",
+            "name":"Aureofungin",
+            "price":6200,
+            "first_img":"../../../assate/product/pesticide/fungicide/Aureofungin_1.webp",
+            "second_img":"../../../assate/product/pesticide/fungicide/Aureofungin_2.png",
+            "third_img":"../../../assate/product/pesticide/fungicide/Aureofungin_3.jpg"
+        },
+
+        {
+            "id":"p44",
+            "category":"fungicides",
+            "name":"Beam",
+            "price":7600,
+            "first_img":"../../../assate/product/pesticide/fungicide/Beam_1.jpg",
+            "second_img":"../../../assate/product/pesticide/fungicide/Beam_2.webp",
+            "third_img":"../../../assate/product/pesticide/fungicide/Beam_3.jpg"
+        },
+
+        {
+            "id":"p45",
+            "category":"fungicides",
+            "name":"Bavistin",
+            "price":300,
+            "first_img":"../../../assate/product/pesticide/fungicide/Bavistin_1.webp",
+            "second_img":"../../../assate/product/pesticide/fungicide/Bavistin_2.jpg",
+            "third_img":"../../../assate/product/pesticide/fungicide/Bavistin_3.jpg"
+        },
+
+        {
+            "id":"p46",
+            "category":"fungicides",
+            "name":"Bayleton",
+            "price":750,
+            "first_img":"../../../assate/product/pesticide/fungicide/Bayleton_1.jfif",
+            "second_img":"../../../assate/product/pesticide/fungicide/Bayleton_2.jfif",
+            "third_img":"../../../assate/product/pesticide/fungicide/Bayleton_3.jpg"
+        },
+
+        {
+            "id":"p47",
+            "category":"fungicides",
+            "name":"Blitox",
+            "price":7800,
+            "first_img":"../../../assate/product/pesticide/fungicide/Blitox_1.jpg",
+            "second_img":"../../../assate/product/pesticide/fungicide/Blitox_2.jpg",
+            "third_img":"../../../assate/product/pesticide/fungicide/Blitox_3.jfif"
+        },
+
+        {
+            "id":"p48",
+            "category":"fungicides",
+            "name":"Calixin",
+            "price":6800,
+            "first_img":"../../../assate/product/pesticide/fungicide/Calixin_1.jpg",
+            "second_img":"../../../assate/product/pesticide/fungicide/Calixin_2.jfif",
+            "third_img":"../../../assate/product/pesticide/fungicide/Calixin_3.jpg"
+        },
+
+        {
+            "id":"p49",
+            "category":"fungicides",
+            "name":"Contaf",
+            "price":7600,
+            "first_img":"../../../assate/product/pesticide/fungicide/Contaf_1.webp",
+            "second_img":"../../../assate/product/pesticide/fungicide/Contaf_2.jfif",
+            "third_img":"../../../assate/product/pesticide/fungicide/Contaf_3.webp"
+        },
+
+        {
+            "id":"p50",
+            "category":"fungicides",
+            "name":"Cuman",
+            "price":990,
+            "first_img":"../../../assate/product/pesticide/fungicide/Cuman_1.jpg",
+            "second_img":"../../../assate/product/pesticide/fungicide/Cuman_2.webp",
+            "third_img":"../../../assate/product/pesticide/fungicide/Cuman_3.webp"
+        },
+
+        {
+            "id":"p51",
+            "category":"fungicides",
+            "name":"Curzate M8",
+            "price":5700,
+            "first_img":"../../../assate/product/pesticide/fungicide/Curzate-M8_1.jpg",
+            "second_img":"../../../assate/product/pesticide/fungicide/Curzate-M8_2.jpg",
+            "third_img":"../../../assate/product/pesticide/fungicide/Curzate-M8_3.jpeg"
+        },
+
+        {
+            "id":"p52",
+            "category":"fungicides",
+            "name":"Equation Pro",
+            "price":6900,
+            "first_img":"../../../assate/product/pesticide/fungicide/Equation-Pro_1.jpg",
+            "second_img":"../../../assate/product/pesticide/fungicide/Equation-Pro_2.webp",
+            "third_img":"../../../assate/product/pesticide/fungicide/Equation-Pro_3.png"
+        },
+
+        {
+            "id":"p53",
+            "category":"fungicides",
+            "name":"Folicur",
+            "price":2500,
+            "first_img":"../../../assate/product/pesticide/fungicide/Folicur_1.jpg",
+            "second_img":"../../../assate/product/pesticide/fungicide/Folicur_2.jpg",
+            "third_img":"../../../assate/product/pesticide/fungicide/Folicur_3.webp"
+        },
+
+        {
+            "id":"p54",
+            "category":"fungicides",
+            "name":"Kavach",
+            "price":750,
+            "first_img":"../../../assate/product/pesticide/fungicide/Kavach_1.webp",
+            "second_img":"../../../assate/product/pesticide/fungicide/Kavach_2.webp",
+            "third_img":"../../../assate/product/pesticide/fungicide/Kavach_3.webp"
+        },
+
+        {
+            "id":"p55",
+            "category":"fungicides",
+            "name":"Karathane",
+            "price":3500,
+            "first_img":"../../../assate/product/pesticide/fungicide/Karathane_1.jpg",
+            "second_img":"../../../assate/product/pesticide/fungicide/Karathane_2.jpg",
+            "third_img":"../../../assate/product/pesticide/fungicide/Karathane_3.jfif"
+        }
+
+
+    ]
+}

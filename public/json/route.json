@@ -1,0 +1,4 @@
+{
+    "cart/:email":"/cart?email=:email"
+    
+}

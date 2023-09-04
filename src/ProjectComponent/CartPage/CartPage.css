@@ -1,0 +1,34 @@
+.cart__table{
+    margin: 8rem 0;
+}
+
+.quent_input{
+    border: none;
+    text-align: center;
+    outline: none;
+    width: 5%;
+}
+.button_quent{
+    background: transparent;
+    border: none;
+}
+
+.cart__total{
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    color: rgb(3, 82, 3);
+    font-family: "Roboto",serif;
+}
+
+
+.coupon{
+    float: left;
+}
+.coupon__input{
+    height: 60px;
+    border: 2px solid #e4e4e4;
+    padding: 0 15px;
+    margin-right: 10px;
+    margin-bottom: 12px;
+}

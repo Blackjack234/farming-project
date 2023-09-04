@@ -1,0 +1,31 @@
+.parent-banner{
+    position: relative;
+    width: 100%;
+   margin-top: 6rem;
+   height: 450px;
+}
+
+.parent-banner figure img{
+    height: 450px;
+    object-fit: cover;
+   
+}
+
+.banner-content{
+    position: absolute;
+    top: 28%;
+    left: 14%;
+    color: #fff;
+}
+
+.banner-content h1{
+    font-size: 44px;
+    font-weight: bolder;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    text-shadow: 2px 4px 4px rgb(8, 139, 85);
+}
+.banner-content p{
+    font-size: 24px;
+    font-weight: bolder;
+}

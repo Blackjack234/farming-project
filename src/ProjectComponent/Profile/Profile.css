@@ -1,0 +1,45 @@
+.main__profile__section{
+    margin: 80px 0;
+}
+/* .img__figure{
+    display: block;
+    margin: auto;
+} */
+
+.img__figure img{
+    margin: auto;
+    width: 200px;
+    display: block;
+    width: 250px;
+}
+.profile__detail h2{
+   font-family: "prata",serif;
+   font-size: 40px;
+   color: rgb(3, 82, 3);
+}
+
+.profile__detail p{
+    font-family: "Roboto",sans-serif;
+    font-size: 20px;
+
+}
+
+.button__1{
+    background-color: #32532a;
+    color: white;
+    border: none;
+    padding: 5px;
+    margin: 20px 10px 0 10px;
+    font-size: 11px;
+    height: 50px;
+    width: 50px;
+    box-shadow: 0 2px 4px darkslategray;
+    cursor: pointer;
+    border-radius: 70%;
+    transition: all 0.3s ease;
+    opacity: 1;
+}
+
+.button__1 i{
+    color: #fdd062;
+}

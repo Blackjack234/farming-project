@@ -1,0 +1,209 @@
+.titlepadding{
+    padding-top: 160px;
+    padding-bottom: 116px;
+}
+
+.theme-bg-primary-h1{
+    background: #f0efeb;
+}
+
+.about-title{
+    font-size: 5rem;
+    color: rgb(3, 82, 3);
+    margin-top: 30px;
+    font-family: "Prata",serif;
+    font-weight: 500;
+}
+.nav-style{
+    --bs-breadcrumb-divider:"|";
+    align-self: center;
+}
+
+.about-sec-1{
+    padding-top: 7.5rem;
+    padding-bottom: 6.875rem;
+    width: 100%;
+}
+
+.asub-title{
+     font-family: "Covered By Your Grace",'cursive';
+     text-transform: capitalize;
+     letter-spacing: 0;
+     font-size: 20px;
+     margin-bottom: 10px;
+     display: block;
+}
+.grace-span{
+ color: #999999;
+}
+.tp-section-title{
+    font-size: 50px;
+    color: #31512a;
+    margin-bottom: 20px;
+    line-height: 60px;
+    font-family: "Prata",serif;
+}
+.tp-section-wrap{
+    padding-left: 150px;
+}
+.about-text{
+    color: #A8ACA7;
+    line-height: 2;
+    letter-spacing: 1;
+
+}
+.tb-btn{
+    background: #31512a;
+    color: #ffffff;
+    border-radius: 0;
+    cursor: pointer;
+    font-size: 16px;
+    display: inline-block;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: 0;
+    margin-bottom: 0;
+    padding: 20px 40px;
+    text-align: center;
+    text-transform: capitalize;
+    transition: 0.3s;
+    vertical-align: middle;
+    white-space: nowrap;
+    border: 1px solid transparent;
+}
+
+.tb-btn:hover{
+    background: #ffffff;
+    border-color: rgb(9, 83, 9);
+    color: #000;
+}
+
+.tb-support-client{
+    color: #999999;
+    text-transform: capitalize;
+    letter-spacing: 0;
+    position: relative;
+}
+.tb-support-client-ab{
+    font-size: 18px;
+    text-align: center;
+    display: block;
+}
+
+.tb-support-client::before{
+    position: absolute;
+    background: #e1e1e1;
+    width: 45%;
+    height: 1px;
+    content: "";
+    top: 50%;
+    left: 0px
+}
+
+.tb-support-client::after{
+    position: absolute;
+    background: #e1e1e1;
+    width: 45%;
+    height: 1px;
+    content: "";
+    top: 50%;
+    right: 0px;
+}
+
+
+
+.client-logo{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+@keyframes slide {
+    from{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-100%);
+    }
+}
+.logo{
+    width: 100%;
+    overflow: hidden;
+    padding: 80px 0 ;
+    background: #f2f2f2;
+    white-space: nowrap;
+    position: relative;
+}
+.logo::before,.logo::after{
+      position: absolute;
+    top: 0;
+    width: 250px;
+    height: 100%;
+    z-index: 2;
+    content: "";
+}
+
+.logo::before{
+   left: 0;
+    background:linear-gradient(to left,rgba(255,255,255,0),white);
+    
+}
+
+.logo::after{
+    right: 0;
+    background: linear-gradient(to right,rgba(255,255,255,0),white);
+}
+.logo:hover .logo-slid{
+    animation-play-state: paused;
+}
+.logo-slid{
+    display: inline-block;
+    
+    animation: 35s slide  infinite linear;
+}
+.logo-slid img{
+    height: 50px;
+    margin: 0 40px;
+}
+
+
+/* about section */
+
+.parent-about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.child-1-about{
+     width: 40%;
+     /* background-color: blue; */
+}
+
+.child-1-about h3{
+    font-size: 50px;
+    color: #31512a;
+    margin-bottom: 20px;
+    line-height: 60px;
+    font-family: "Prata",serif;
+}
+
+.child-1-about p{
+    font-family: "Covered By Your Grace",'cursive';
+    text-transform: capitalize;
+    letter-spacing: 0;
+    font-size: 20px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.child-2-about{
+    width: 40%;
+    /* background-color: red; */
+}
+.child-2-about p{
+    margin-bottom: 15px;
+    line-height: 28px;
+    font-family: "Roboto", sans-serif;
+    padding-top:50px ;
+}

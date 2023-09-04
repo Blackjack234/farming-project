@@ -1,0 +1,16 @@
+{
+    "coupon":[
+        {
+            "code":"SUPER20",
+            "discount":20
+        },
+        {
+            "code":"FALL50",
+            "discount":50
+        },
+        {
+            "code":"MONTH30",
+            "discount":30
+        }
+    ]
+}

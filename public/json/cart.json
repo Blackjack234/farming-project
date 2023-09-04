@@ -1,0 +1,44 @@
+{
+  "cart": [
+    {
+      "id": 1,
+      "prod_id": "p99",
+      "name": "demo item",
+      "price": 1000,
+      "category": "demo cate",
+      "amount": 1,
+      "email": "user123@mail.com",
+      "first_img": "image"
+    },
+    {
+      "prod_id": "p25",
+      "name": "Actara",
+      "price": 6000,
+      "category": "insecticide",
+      "amount": 1,
+      "email": null,
+      "first_img": "../../../assate/product/pesticide/insecticide/Actara_1.jpg",
+      "id": 2
+    },
+    {
+      "prod_id": "p01",
+      "name": "Arborio Rice",
+      "price": 1000,
+      "category": "seed",
+      "amount": 1,
+      "email": null,
+      "first_img": "../../../assate/product/seed/Arborio_Rice_1.jfif",
+      "id": 3
+    },
+    {
+      "prod_id": "p42",
+      "name": "Amistar",
+      "price": 1300,
+      "category": "fungicides",
+      "amount": 1,
+      "email": "palmohan234@mail.com",
+      "first_img": "../../../assate/product/pesticide/fungicide/Amistar_1.jpg",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+.tp-reg-form-field input,.tp-contact-form-field select{
+    color: #7f8080;
+    font-size: 16px;
+    display: block;
+    width: 100%;
+    height: 70px;
+    background: #ffffff;
+    font-weight: 400;
+    border: 1px solid #dfe0e5;
+    outline: none;
+    padding: 20px 20px;
+    width: 100%;
+    border-radius: 4px;
+    position: relative;
+  }
+
+  .mb-20{
+    margin-bottom: 20px;
+  }
+
+  .titlepadding{
+    padding-top: 140px;
+    padding-bottom: 135px;
+}
+.tp-reg-form-field span{
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 26px 20px;
+}
+
+.reg-msg{
+  font-size: 24px;
+  font-family: "Prata",serif;
+  
+}
+.reg-msg a{
+  color: rgb(3, 144, 3);
+  text-decoration: none;
+}
+  

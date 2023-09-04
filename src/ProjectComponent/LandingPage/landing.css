@@ -1,0 +1,190 @@
+.tp-secland-title{
+    font-size: 50px;
+    color: rgb(4, 72, 4);
+    margin-bottom: 20px;
+    line-height: 60px;
+    font-family: "Prata",serif;
+}
+.line-bar{
+    position: relative;
+}
+
+.line-bar::before{
+    position: absolute;
+    width: 135px;
+    height: 2px;
+    right: 0px;
+    top:0;
+    content: "";
+    background: rgb(4, 72, 4);
+    left: -77px;
+
+}
+
+.founder h5{
+    font-size: 24px;
+    font-family: "Prata",serif;
+    color:  rgb(4, 72, 4);
+    margin-bottom: 0;
+}
+.founder span{
+    font-family: "Prata",serif;
+    color: rgb(60, 59, 59);
+    line-height: 24px;
+}
+
+.tp-ft-list{
+    display: flex;
+    border-top: 1px solid #e4e4e4;
+    padding-top: 50px;
+}
+
+.tp-ft-list-item{
+    width: 20%;
+    background: #f5f3f3;
+    padding: 20px 10px;
+    margin-right: 20px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.tp-ft-list-item h5{
+    font-size: 20px;
+    line-height: 22px;
+    font-family: "Prata",serif;
+
+
+}
+.tp-ft-list-item i{
+color: #07bb4c;
+font-size: 60px;
+transition: 0.3s;
+}
+.tp-ft-list-item:hover {
+    background: rgb(5, 148, 5);
+    color: white;
+}
+.tp-ft-list-item:hover i{
+    color:#fff;
+}
+
+
+
+/* .fa-warehouse:hover,.fa-tractor:hover,.fa-seedling:hover,.fa-wheat-awn:hover{
+    color: white;
+} */
+
+.video__section{
+    padding: 130px 0;
+    width: 100%;
+    margin: 50px 0;
+    background:linear-gradient(to left, rgba(245, 245, 131,0.5),rgba(1, 59, 1, 0.6)), url("../../../public/assate/wedsitePic/greenHouse.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+  
+}
+.video__main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  #fdd062;
+        width: 80%;
+        margin:  auto;
+        border-radius: 10px;
+        padding: 100px 0;
+       
+
+}
+.video__col__2{
+
+    width: 100%!important;
+    border-radius: 0 10px 10px 0;
+    color: white;
+    text-align: start;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0!important;
+
+}
+.video__content{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 20px 0;
+    flex-direction: column;
+    color: #31512a;
+}
+.play__div{
+    width: 100%;
+    padding: 300px 0;
+}
+.iframe__div{
+    width: 80%;
+    height: 277px;
+    margin: 0 0 0 55px;
+
+}
+.play__btn{
+    background-color: #32532a;
+    color: white;
+    border: none;
+    padding: 5px;
+    font-size: 31px;
+    height: 130px;
+    width: 130px;
+    box-shadow: 0 2px 4px darkslategray;
+    cursor: pointer;
+    border-radius: 70%;
+    transition: all 0.3s ease;
+    opacity: 1;
+}
+.play__btn i {
+    color:#fdd062;
+}
+.play__btn:hover{
+background-color: #fff;
+}
+.play__btn:hover i{
+    color: #32532a;
+}
+
+.video__title{
+    font-size: 35px;
+    font-family: "Prata",serif;
+    color: #31512a;
+  
+   
+}
+
+.video__p{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    color: #31512a;
+    line-height: 30px;
+    margin: 0;
+}
+
+.common__info__parent{
+    background-color: #31512a;
+    padding: 100px 0;
+}
+.common__info__parent h2{
+ font-size: 50px;
+ font-family: "prata",serif;
+ color: #ffffff;
+ width: 100%;
+}
+.common__info__parent p{
+    width: 100%;
+    margin: auto;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+    /* text-shadow: 2px 4px 4px rgb(211, 208, 208); */
+}
+
+/*............... css foir responsive....... */
+
+/* @media only screen (max-width:) and (min-width: 350pxpx) */
+
